@@ -1,39 +1,39 @@
-Read in english: https://github.com/FrancescoCeliento/simplecssorg-theme-wordpress/blob/main/README_EN.md
+Leggi in italiano: https://github.com/FrancescoCeliento/simplecssorg-theme-wordpress/blob/main/README.md
 
 # SimpleCSS Theme Wordpress
-**SimpleCSS Theme Wordpress** nasce dall'esigenza di creare blog e siti leggeri e veloci e si offre per permettere a chiunque voglia di creare blog con pagine di dimensioni, non compresse, inferiori ai 100KB.
+**SimpleCSS Theme Wordpress** was born from the need to create blogs and sites light and fast and is offered to allow anyone who wants to create blogs with pages of size, not compressed, less than 100KB.
 
-Si tratta di un tema focalizzato sulla scrittura e dedicato a chi ha bisogno di un sito web personale per qualsiasi scopo, che sia un curriculum lavorativo, portfolio, personale. Non è adatto ai magazine né agli ecommerce.
+It is a theme focused on writing and dedicated to those who need a personal website for any purpose, whether it is a work resume, portfolio, personal. It is not suitable for magazines or ecommerce.
 
-È scritto usando il framework [Simple.css {}](https://simplecss.org) di [Kev Quirk](https://kevq.uk) alla quale diamo tutti i meriti di questo progetto.
+It is written using the [Simple.css {}](https://simplecss.org) framework by [Kev Quirk](https://kevq.uk) to whom we give all credit for this project.
 
 ## Demo
-Lo utilizzo sul mio sito personale, quindi se vuoi una demo basta che lo visiti: https://www.francescoceliento.com
+I use it on my personal website, so if you want a demo just visit it: https://www.francescoceliento.com
 
-## Caratteristiche di SimpleCSS Theme Wordpress
-* Nessun logo
-* Nessuna sidebar e quindi nessun widget
-* Nessuno script
-* Un'unica colonna
-* Un solo menù nella topbar
+## Features of SimpleCSS Theme Wordpress
+* No logo
+* No sidebar and therefore no widgets
+* No scripts
+* Only one column
+* Only one menu in the topbar
 * Responsive
-* Modalità scura automatica
+* Auto dark mode
 
-## Incredibilmente leggero, incredibilmente veloce
-Il fatto che con il passare degli anni abbiamo a disposizione computer sempre più potenti e connessioni sempre più veloci non significa che la pagina di un sito web debba arrivare a pesare anche 5MB. Lo scopo principale che dovrebbe avere un sito web è informare, e se consideriamo che un ebook di grandi (enormi) dimensioni non supera in media i 2.5 MB ci fa capire quanto sia assurdo dover scaricare dalla rete 5MB di dati per leggere un singolo articolo.
-Lo scopo di **SimpleCSS Theme Wordpress** è proprio quello di permettere agli autori di poter scrivere un blog di qualsiasi natura offrendo ai lettori un prodotto usufruibile anche con la connessione più lenta, e il computer più datato. Io con il mio Dot S della Packard Bell non riesco a leggere senza lunghe attese la maggior parte dei siti internet attualmente esistenti.
+## Incredibly light, incredibly fast
+The fact that over the years we have more and more powerful computers and faster and faster connections does not mean that the page of a website should weigh 5MB. The main purpose that a website should have is to inform, and if we consider that a large (huge) ebook does not exceed an average of 2.5 MB it makes us understand how absurd it is to have to download 5MB of data from the network to read a single article.
+The purpose of **SimpleCSS Theme Wordpress** is to allow authors to write a blog of any kind, offering readers a product that can be used even with the slowest connection and the oldest computer. With my Packard Bell Dot S, I can't read most of the currently existing websites without long waits.
 
-## Come installare SimpleCSS Theme Wordpress
-* [Scaricare il pacchetto](https://github.com/FrancescoCeliento/simplecssorg-theme-wordpress/archive/main.zip)
-* Estrarre il pacchetto
-* Caricare il pacchetto nella posizione ``wp-content/themes/`` del nostro sito Wordpress
-* Attivare il tema nelle impostazioni di Wordpress alla posizione **Dashboard > Aspetto > Temi**
+## How to install SimpleCSS Theme Wordpress
+* [Download the package](https://github.com/FrancescoCeliento/simplecssorg-theme-wordpress/archive/main.zip)
+* Extract the package
+* Upload the package to the location ``wp-content/themes/`` of our Wordpress site.
+* Activate the theme in the Wordpress settings at the location **Dashboard > Appearance > Themes**.
 
-# Riferimenti
-* Autore: [Francesco Celiento](https://www.francescoceliento.com), fondatore e scrittore di [Dummy-X](https://www.selectallfromdual)
-* Per donazioni a Francesco: [PayPal](https://paypal.me/francescoceliento), Bitcoin (35PDTf9NNjLPA2dos3Sbg7cjoWYXnAEjpB)
-* Framework: [Simple.css {}](https://simplecss.org) di [Kev Quirk](https://kevq.uk)
-* [Per donazioni a Kev](https://kevq.uk/buy-me-a-coffee)
+# References
+* Author: [Francesco Celiento](https://www.francescoceliento.com), founder and writer of [Dummy-X](https://www.selectallfromdual)
+* For donations to Francesco: [PayPal](https://paypal.me/francescoceliento), Bitcoin (35PDTf9NNjLPA2dos3Sbg7cjoWYXnAEjpB)
+* Framework: [Simple.css {}](https://simplecss.org) by [Kev Quirk](https://kevq.uk)
+* [For donations to Kev](https://kevq.uk/buy-me-a-coffee)
 
-# Aggiornamenti
-Gli aggiornamenti sullo sviluppo e tutte le notizie saranno pubblicate all'indirizzo https://www.francescoceliento.com/tag/simplecssorg-theme-wordpress
+# Updates
+Development updates and all news will be published at https://www.francescoceliento.com/tag/simplecssorg-theme-wordpress (in italian)
